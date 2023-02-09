@@ -12,7 +12,7 @@ class MelonType:
         """Initialize a melon."""
 
         self.pairings = []
-
+#jgs
         self.name = name
         self.code = code
         self.first_harvest = first_harvest
